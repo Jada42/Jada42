@@ -1,7 +1,5 @@
 # Well, hello there! 👋
 
-**MSc Artificial Intelligence & Governance | AI / ML Researcher**
-
 I do self-driven AI research and test small language architectures. Fan of **hybrid models and gating**
 
 ## 🔬 Research Interests
