@@ -4,7 +4,7 @@ I do self-driven AI research and test small language architectures. Fan of **hyb
 
 ## 🔬 Research Interests
 - AI Alignment & Transparency
-- Value-Aligned Government AI
+- Value-Aligned AI
 - (Hybrid)Language Model Architectures (SSMs; Hopfield; Latent Transformers)
 - Time-Series Modeling of Psychological Behavior
 - Autoregressive Time-Series Simulation Modeling of Astronaut Stress data, incl. Temporal Fusion Transformers
