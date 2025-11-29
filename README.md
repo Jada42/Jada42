@@ -16,8 +16,8 @@ I do self-driven AI research and test small language architectures. Fan of **hyb
 ## 📚 Recent Work
 
 - 🌌 **[CALM-Seal](https://github.com/Jada42/Hybrid-CALM-on-Z)** - A hybrid implementation of Shao et al. their Continuous Autoregressive Language Modeling (CALM) fused with State Space Models (SSM) and Hopfield Networks and gating + rectified flow.
-- 🧠 **[Hamba](https://medium.com/@julyweiss/attention-and-beyond-building-a-hybrid-brain-inspired-language-model-3e6adcc39398)** - Novel brain-inspired hybrid architecture combining SSMs and Hopfield networks with attention (BPE PPL of 28.6 vs GPT-2's 29 with 30% less params and two hierarchical reasoning passes and rectified flow
-- 🏛️ **[MSC: RLAIF/RLHF for Public Value Alignment Enhancing Transparency in LLMs](https://www.lesswrong.com/posts/dJJkhk5nZoXfiQgHz/rlaif-rlhf-for-public-value-alignment-enhancing-transparency)** - Master's thesis on aligning government AI with democratic transparency values (VU Amsterdam, 2025)
+- 🧠 **[Hamba](https://medium.com/@julyweiss/attention-and-beyond-building-a-hybrid-brain-inspired-language-model-3e6adcc39398)** - Novel hybrid hopfield + mamba inspired architecture combining SSMs and Hopfield networks with attention (BPE PPL of 28.6 vs GPT-2's 29 with 30% less params and two hierarchical reasoning passes (Segmented-Reasoning) and rectified flow.
+- 🏛️ **[MSC: RLAIF/RLHF for Public Value Alignment Enhancing Transparency in LLMs](https://www.lesswrong.com/posts/dJJkhk5nZoXfiQgHz/rlaif-rlhf-for-public-value-alignment-enhancing-transparency)** - Master's thesis on aligning Mistral-7b with democratic transparency values (VU Amsterdam, 2025)
 
 - 📊 **[Time-Varying VAR/GAM and Temporal Fusion Models](Repository)** - Extension of my BSc extrapolated to astronauts on a 1 year mission. Predicting psychological behavior from simulated Astronaut data over a year with 3% shock event data (positive & negative) (VU University Amsterdam, 2024)
 
