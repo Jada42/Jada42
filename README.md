@@ -13,7 +13,9 @@ I do self-driven AI research and test small language architectures. Fan of **hyb
 ## Deployed 
 - 🎸 **[GearChat](https://manualgpt.streamlit.app)** - RAG-powered chatbot for musicians to chat with their intruments manual (synthesizers, drum-machines etc.) (deployed)
 
-## 📚 Recent Work
+## 📚 Recent Self-Research Work & Theses
+
+- 🌌 **[Mambo/DeepSpark/VLM](Currently In works)** - Hybrid Vision-Language architecture merging a Spark V2 patch compressor, Mamba-3 linear scan, and Sparse MoE, featuring parallel agent contemplation over an internal Reasoning in Memory latent workspace.
 
 - 🌌 **[CALM-Seal](https://github.com/Jada42/Hybrid-CALM-on-Z)** - A hybrid implementation of Shao et al. their Continuous Autoregressive Language Modeling (CALM) fused with State Space Models (SSM) and Hopfield Networks and gating + rectified flow.
 - 🧠 **[Hamba](https://medium.com/@julyweiss/attention-and-beyond-building-a-hybrid-brain-inspired-language-model-3e6adcc39398)** - Novel hybrid hopfield + mamba inspired architecture combining SSMs and Hopfield networks with attention (BPE PPL of 16,2 (FineWiki) two hierarchical reasoning passes (Segmented-Reasoning) and rectified flow.
