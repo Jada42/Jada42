@@ -35,7 +35,7 @@ I do self-driven AI research and test small language architectures. I am a fan o
 
 * 🐍 **[mlx-mamba3](https://github.com/Jada42/mlx-mamba3)**
   * **Description:** Native MLX reimplementation of the Mamba-3 architecture optimized for Apple Silicon (Metal). Replicates upstream block-selection logic, core Mamba-3 recurrence concepts, inference-cache semantics, and config structure, supporting mixed-precision SFT (LoRA) and hybrid Attention-Mamba models.
-* 🌌 **[Persephone / VLM](<Currently In works>)**
+* 🌌 **[Persephone / VLM](<[Currently In works](https://github.com/Jada42/Persephone-VLM)>)**
   * **Description:** Hybrid Vision-Language architecture merging a vision patch compressor, Mamba-3 linear scan, and Sparse MoE, featuring parallel agent contemplation over an internal Reasoning in Memory latent workspace.
   
 * 🌌 **[CALM-Seal](https://github.com/Jada42/Hybrid-CALM-on-Z)**
